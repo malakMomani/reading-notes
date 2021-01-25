@@ -1,17 +1,17 @@
-# Welcome to GitHup pages 
+# Growth Mindset
+![Growth Mindset](https://cdn.givingcompass.org/wp-content/uploads/2019/08/20115159/Research-Shows-Growth-Mindset-Can-Lift-Students-Grades.jpg)
 
-*GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.*
+*People who has agrowth mindset believes on their abilities and can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.*
 
-## Yay! Now you are web developer and gitHub pages will help you 
-
-![gitHubPages](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png)
-
-**With amazing Instructional Staff :**
-1. **instructor:** Bashar Alasmar
-2. **TA's :**
-    - Batool Al-ali 
-    - Waleed faraj
-    - Ashjan Albarqi 
+ ## Growth Reminders:
+ 
+ 1. Mistakes help me to learn more.
+    - I can do it !
+    - I'll keep trying .
+ 2. Is it really my best work?
+ 3. I can always improve myself.
+ 
+ 
 
 > **I Hope to follow me on GitHup** 
 [Malak Momani](https://github.com/malakMomani)
