@@ -6,13 +6,12 @@
 
 ![gitHubPages](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png)
 
-**With amazing instructor :**
-- Bashar Alasmar
-
-**And great TA's :**
-1. Batool Al-ali 
-2. Waleed faraj
-3. Ashjan Albarqi 
+**With amazing Instructional Staff :**
+- **instructor:** Bashar Alasmar
+- **TA's :**
+  1. Batool Al-ali 
+  2. Waleed faraj
+  3. Ashjan Albarqi 
 
 > **I Hope to follow me on GitHup** 
 [Malak Momani](https://github.com/malakMomani)
