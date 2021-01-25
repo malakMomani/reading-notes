@@ -9,9 +9,9 @@
 **With amazing instructor :**
 - Bashar Alasmar
 
-**And amazing co-instructor :**
-1. Waleed faraj
-2. Batool Al-ali 
+**And great TA's :**
+1. Batool Al-ali 
+2. Waleed faraj
 3. Ashjan Albarqi 
 
 > **I Hope to follow me on GitHup** 
