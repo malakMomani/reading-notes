@@ -25,6 +25,8 @@ What am I missing ? | I'm not good at this.
 > **I Hope to follow me on GitHup** 
 [Malak Momani](https://github.com/malakMomani)
 
+## [READ MORE about GitHub](https://malakmomani.github.io/reading-notes/read02a) 
+
 
 
 
