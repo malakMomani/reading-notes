@@ -12,11 +12,7 @@ And there is my dictionary :
 - (** text ** ) >> bold.
 - (* text * ) >> Italic .
 - (![image](image url or path)) >> Add an image.
-- ([linkName](myLink)) >> Add alink.
+- ([linkName] (myLink)) >> Add alink.
 - (numbers vertically 1. 2. ...) >> Add orderd list.
 - (dashes vertically - - ...) >> Ad unorderd list.
 - (:emojicode:) >> Add an emoji.
-
-
-
-l
