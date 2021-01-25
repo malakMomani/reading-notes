@@ -3,7 +3,7 @@
 
 *People who has agrowth mindset believes on their abilities and can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.*
 
-# Growth Reminders :
+## Growth Reminders :
  
  1. Mistakes help me to learn more.
     - I can do it !
@@ -11,7 +11,7 @@
  2. Is it really my best work?
  3. I can always improve myself.
  
- # How to have a Growth Mindest 
+## How to have a Growth Mindest 
  
  **Think** | **Instead Of**
 ------------ | -------------
