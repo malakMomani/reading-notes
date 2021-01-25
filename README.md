@@ -1,4 +1,4 @@
-# reading-notes
+# reading-notes1
 lab: 02 - Learning Markdown
 
 ## Yay! Now you are web developer and gitHub pages will help you 
