@@ -9,9 +9,9 @@
 **With amazing Instructional Staff :**
 - **instructor:** Bashar Alasmar
 - **TA's :**
-    1. Batool Al-ali 
-    2. Waleed faraj
-    3. Ashjan Albarqi 
+    - Batool Al-ali 
+    - Waleed faraj
+    - Ashjan Albarqi 
 
 > **I Hope to follow me on GitHup** 
 [Malak Momani](https://github.com/malakMomani)
