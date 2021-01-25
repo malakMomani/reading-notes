@@ -10,4 +10,23 @@ There is three main states for Git
 2. Modified.
 3. Staged.
 ```
-### History of Git
+### The local Git repository has three components:
+
+- Working Directory.
+- Index.
+- Head.
+
+```
+All files in a checked out (or working) copy of a project file are either 
+in a tracked or untracked state.
+```
+
+## Life Cycle 
+```
+Untracked Project  >> Add file >> Unmodified project you remove file >> Edit File
+>> Modified Project >>  Stage File >> Staged project you can commit it 
+and return to Modified Project.
+```
+
+```
+Finally , you can stash any change you made it ,using ( git stash apply ).
