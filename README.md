@@ -11,7 +11,16 @@
  2. Is it really my best work?
  3. I can always improve myself.
  
+ # How to have a Growth Mindest 
  
+ Think | Instead Of
+------------ | -------------
+I can do hard things! | This is too hard.
+I won't give up! | I quit.
+I'm getting smarter everyday! | i'm not smart enough.
+Mistakes help me growth | That was a bad mistake.
+I can learn! | I don't care.
+What am I missing ? | I'm not good at this.
 
 > **I Hope to follow me on GitHup** 
 [Malak Momani](https://github.com/malakMomani)
