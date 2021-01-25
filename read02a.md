@@ -4,9 +4,9 @@
 ## What is Markdown ?
 ```
 Markdown is language allows you to styling you text on the web using symbols ,
-formating words and adding elments .Markdown files must have (.md) or (.markdown) 
+formatting words and adding elements .Markdown files must have (.md) or (.markdown) 
 extension.
-You can add texts , lists , images , links , hraders and qoutes .
+You can add texts , lists , images , links , headers and quotes .
 And there is my dictionary :
 ```
 - (#) >> For heading
@@ -14,16 +14,16 @@ And there is my dictionary :
 - (###) >> Smallest heading.
 - (** text ** ) >> bold.
 - (* text * ) >> Italic .
-- (![image] (image url or path)) >> Add an image.
+- (![image] (image URL or path)) >> Add an image.
 - ([linkName] (myLink)) >> Add alink.
-- (numbers vertically 1. 2. ...) >> Add orderd list.
-- (dashes vertically - - ...) >> Ad unorderd list.
-- (:emojicode:) >> Add an emoji.
+- (numbers vertically 1. 2. ...) >> Add ordered list.
+- (dashes vertically - - ...) >> Ad unordered list.
+- (:emoji code:) >> Add an emoji.
 
 ## What is GitHub Pages ?
 
 ```
 Open source tool , it's transform text to website without setting any databases or 
 servers. Jykell is an open source that transforms text files to the websites , 
-which gives you more conntrol of format and presentation of website .
+which gives you more control of format and presentation of website .
 ```
