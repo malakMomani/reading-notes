@@ -48,7 +48,7 @@ its structure.
 3. **id attribute** : < tag id="value">  It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore.
 4. **class attribute** : < tag class ="value" > identify several elements as being different from the other elements on the page.
 5. **Block elements** : <h1>, <p>, <ul>, and <li> that mean each tag will appear in a new line.
-6. **Inline elements** : < a>, <b>, <em>, and <img> appear to continue on the same line as their neighbouring elements.
+6. **Inline elements** : < a>, < b>, < em>, and < img> appear to continue on the same line as their neighbouring elements.
 7. **<div>** : Grouping Text & Elements In a Block.
 8. **< span>** : Grouping Text & Elements Inline,
 9. **<iframe>** : like a little window that has been cut into your page — and in that window you can see another page.
