@@ -1,36 +1,20 @@
-# Growth Mindset
-![Growth Mindset](https://cdn.givingcompass.org/wp-content/uploads/2019/08/20115159/Research-Shows-Growth-Mindset-Can-Lift-Students-Grades.jpg)
+# Welcome To ASAC
+![LTUC](https://img.alwakeelnews.com/Content/Upload/small/8202013104316907594295.jpg)
 
-*People who has agrowth mindset believes on their abilities and can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.*
-
-## Growth Reminders :
- 
- 1. Mistakes help me to learn more.
-    - I can do it !
-    - I'll keep trying .
- 2. Is it really my best work?
- 3. I can always improve myself.
- 
-## How to have a Growth Mindest 
- 
- **Think** | **Instead Of**
------------- | -------------
-I can do hard things! | This is too hard.
-I won't give up! | I quit.
-I'm getting smarter everyday! | i'm not smart enough.
-Mistakes help me growth | That was a bad mistake.
-I can learn! | I don't care.
-What am I missing ? | I'm not good at this.
-
-> **I Hope to follow me on GitHup** 
-[Malak Momani](https://github.com/malakMomani)
-
-## [READ MORE about GitHub](https://malakmomani.github.io/reading-notes/read02a) 
-
-## THIS CHANGE IS NEW
-
-## THIS IS NEW
+## TABLE OF CONTENT 
+> Growth Mindset              ........ 1
+> GitHub & Markdown           ........ 2
+> GitHub Pages                ........ 3
+> Git                         ........ 4
 
 
+### ABDUL AZIZ AL GHURAIR SCHOOL OF ADVANCED COMPUTING
+
+**
+```
+This is Malak , I'm student at ASAC , I'ts a great to be here , I have a Bachelor's degree in Computer Science .
+I hope that you enjoy your time in my Page 
+```
+**
 
 
