@@ -5,10 +5,10 @@
 **JavaScript is a programming language used in browsers to make websites more interactive ,interesting, and user-friendly**
 
 ### How JavaScript makes web pages more interactive ?
-**1. Access your web page Content by selecting an element**
-**2. Modify the content like adding or removing elements**
-**3. Program rules which allows the browser to access or change content**
-**4. React to events like when a button is pressed**
+1. Access your web page Content by selecting an element
+2. Modify the content like adding or removing elements
+3. Program rules which allows the browser to access or change content
+4. React to events like when a button is pressed**
 
 > **Slideshows** & **Forms** are examples of JavaScript in web page 
 
@@ -38,7 +38,7 @@ in a language the computer can understand and follow.
   - (=) assignment operator : assign a value to a variable.
   - (>,<,==,!=) : comparison operator : Compare two values and return true or false.
   - (*,-,+,/,) Arithmetic operators : math
-  - (&&,|) logical operators : Combine expressions and return true or false.
+  - (&&) logical operators : Combine expressions and return true or false.
   - (+) string operators : Combine two strings .
 
 
