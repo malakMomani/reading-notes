@@ -8,7 +8,7 @@
 1. Access your web page Content by selecting an element
 2. Modify the content like adding or removing elements
 3. Program rules which allows the browser to access or change content
-4. React to events like when a button is pressed**
+4. React to events like when a button is pressed.
 
 > **Slideshows** & **Forms** are examples of JavaScript in web page 
 
