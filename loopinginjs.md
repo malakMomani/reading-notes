@@ -13,7 +13,8 @@
 
 
 ## Logical Operators :
-- (&&) : **AND** 
+- (&&) : **AND**
+
 First Expression | Second Expression | Result
 ------------ | ------------- | -------------
 true | true | true
@@ -21,7 +22,8 @@ true | false | false
 false | true | false
 false | false | false
 
-- (||) : **OR**
+- (**||**) : **OR**
+
 First Expression | Second Expression | Result
 ------------ | ------------- | -------------
 true | true | true
@@ -30,6 +32,7 @@ false | true | true
 false | false | false
 
 - (!) : **NOT**
+
 First Expression | Second Expression
 ------------ | -------------
 true | true
