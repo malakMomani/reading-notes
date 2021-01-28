@@ -22,7 +22,7 @@ true | false | false
 false | true | false
 false | false | false
 
-- (**||**) : **OR**
+- (**| |**) : **OR**
 
 First Expression | Second Expression | Result
 ------------ | ------------- | -------------
@@ -33,9 +33,7 @@ false | false | false
 
 - (!) : **NOT**
 
-First Expression | Second Expression
+Expression | Result
 ------------ | -------------
-true | true
 true | false
 false | true
-false | false
