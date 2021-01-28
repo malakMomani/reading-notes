@@ -22,7 +22,7 @@ true | false | false
 false | true | false
 false | false | false
 
-- (**| |**) : **OR**
+- (Tow vertical lines) : **OR**
 
 First Expression | Second Expression | Result
 ------------ | ------------- | -------------
@@ -37,3 +37,21 @@ Expression | Result
 ------------ | -------------
 true | false
 false | true
+
+## Loops 
+```Loops check condition . if it returns true , a code block will run until 
+the condition return false.
+```
+**We have three types of loops :**
+1. **For** : 
+for (var i = 0; i < times ypu want to repeat; i++) {
+    //your code ...
+}
+2. **While** :
+while (condition) {
+    //your code ...
+}
+3. **do while** : 
+do {
+    //your code ...
+} while (condition);
