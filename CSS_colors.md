@@ -1,5 +1,5 @@
 # CSS : COLORS 
-![LTUC](rgb_palette.png)
+![rgb](rgb_palette.png) ![color](https://raw.githubusercontent.com/nobuyukinyuu/Godot-HSV-ColorPicker/master/addons/HuePicker/icon_large.png)
 
 **Every color on a computer screen is created by mixing amounts of red,green, and blue. To find the color you want, you can use a color picker**
 
