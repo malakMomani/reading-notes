@@ -1,6 +1,5 @@
 # CSS : COLORS 
-![rgb](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Frgb-color&psig=AOvVaw2P-ljE_wp5OwgafV8VdvNx&ust=1612166792640000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDuwrjbxe4CFQAAAAAdAAAAABAD)
-![LTUC](https://img.alwakeelnews.com/Content/Upload/small/8202013104316907594295.jpg)
+![LTUC](rgb_palette.png)
 
 **Every color on a computer screen is created by mixing amounts of red,green, and blue. To find the color you want, you can use a color picker**
 
