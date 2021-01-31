@@ -1,4 +1,5 @@
-# CSS : COLORS ![rgb](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Frgb-color&psig=AOvVaw2P-ljE_wp5OwgafV8VdvNx&ust=1612166792640000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDuwrjbxe4CFQAAAAAdAAAAABAD)
+# CSS : COLORS 
+![rgb](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Frgb-color&psig=AOvVaw2P-ljE_wp5OwgafV8VdvNx&ust=1612166792640000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDuwrjbxe4CFQAAAAAdAAAAABAD)
 
 **Every color on a computer screen is created by mixing amounts of red,green, and blue. To find the color you want, you can use a color picker**
 
