@@ -7,9 +7,9 @@
 ![picker](pics/picking.png)
 
 ### The color property allows you to specify the color of text inside an element. 
-> foreground color (*color*) : h1 { color: DarkCyan; }
+>> foreground color (*color*) : h1 { color: DarkCyan; }
 ------------------------------------------------------------------------
-> background color (*background-color*) : body { background-color: rgb(200,200,200); }
+>> background color (*background-color*) : body { background-color: rgb(200,200,200); }
 
 
 ### You can specify any color in CSS in one of three ways:
