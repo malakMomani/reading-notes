@@ -2,9 +2,9 @@
 ![LTUC](https://img.alwakeelnews.com/Content/Upload/small/8202013104316907594295.jpg)
 
 ## TABLE OF CONTENT 
-> [Code102](https://malakmomani.github.io/reading-notes/code102/home)
+> [Code102 Reading notes](https://malakmomani.github.io/reading-notes/code102/home)
 
-> [Code201](https://malakmomani.github.io/reading-notes/code201/home)
+> [Code201 Reading notes](https://malakmomani.github.io/reading-notes/code201/home)
 
 ### ABDUL AZIZ AL GHURAIR SCHOOL OF ADVANCED COMPUTING
 
