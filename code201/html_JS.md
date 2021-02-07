@@ -94,3 +94,6 @@ retrieve or update the values of an object's properties.
 3. USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN
 
 **The HTML < script > element is used in HTML pages to tell the browser to load the JavaScript file (rather like the < link > element can be used to load a CSS file**
+
+
+# [Home](https://malakmomani.github.io/reading-notes/code201/home)
