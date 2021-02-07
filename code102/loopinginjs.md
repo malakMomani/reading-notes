@@ -57,4 +57,4 @@ do {
 } while (condition);
 
 
-# [Home](https://malakmomani.github.io/reading-notes/)
+# [Home](https://malakmomani.github.io/reading-notes/code102/home)
