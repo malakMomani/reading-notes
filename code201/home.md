@@ -3,5 +3,7 @@
 
 ## TABLE OF CONTENT 
 
-> [HTML & JAVASCRIPT](https://malakmomani.github.io/reading-notes/code201/html_JS)
+**Subject** | **link**
+------------ | -------------
+HTML & JAVASCRIPT | [HTML & JAVASCRIPT](https://malakmomani.github.io/reading-notes/code201/html_JS)
 

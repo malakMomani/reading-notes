@@ -3,7 +3,7 @@
 
 ## TABLE OF CONTENT 
 
-Subject | Link
+**Subject** | **Link**
 ------------ | -------------
 Growth Mindset | [Growth Mindset](https://malakmomani.github.io/reading-notes/code102/growthMindset)
 GitHub & Markdown | [GitHub & Markdown](https://malakmomani.github.io/reading-notes/code102/githubMD)
