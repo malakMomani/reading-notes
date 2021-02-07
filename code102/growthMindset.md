@@ -28,5 +28,4 @@ What am I missing ? | I'm not good at this.
 ## [READ MORE about GitHub](https://malakmomani.github.io/reading-notes/read02a) 
 
 
-# [Home](https://malakmomani.github.io/reading-notes/)
-
+# [Home](https://malakmomani.github.io/reading-notes/code102/home)

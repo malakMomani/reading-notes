@@ -8,4 +8,4 @@ servers. Jykell is an open source that transforms text files to the websites ,
 which gives you more control of format and presentation of website .
 ```
 
-# [Home](https://malakmomani.github.io/reading-notes/)
+# [Home](https://malakmomani.github.io/reading-notes/code102/home)

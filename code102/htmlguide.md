@@ -55,3 +55,5 @@ its structure.
 10. **< meta>** : lives inside the <head> element and contains information about that web page.
 
 > Escape characters are used to include special characters in your pages such as <, >, and ©.
+
+# [Home](https://malakmomani.github.io/reading-notes/code102/home)

@@ -20,3 +20,5 @@
 - **Hue** : Hue is near to the colloquial idea of color.
 - **Saturation** : The amount of the color you want.
 - **Brighteness** : How much color is in . 
+
+# [Home](https://malakmomani.github.io/reading-notes/code102/home)

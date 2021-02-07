@@ -15,4 +15,4 @@ JavaScript Guide | [JavaScript Guide](https://malakmomani.github.io/reading-note
 Looping in JS | [Looping in JS](https://malakmomani.github.io/reading-notes/code102/htmlguide)
 
 
-# [Home](https://malakmomani.github.io/reading-notes/)
+# [Home](https://malakmomani.github.io/reading-notes/code102/home)

@@ -20,4 +20,4 @@ And there is my dictionary :
 - (dashes vertically - - ...) >> Ad unordered list.
 - (:emoji code:) >> Add an emoji.
 
-# [Home](https://malakmomani.github.io/reading-notes/)
+# [Home](https://malakmomani.github.io/reading-notes/code102/home)
