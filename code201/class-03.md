@@ -22,3 +22,21 @@
                   p.two {
                     overflow: scroll;}
 - **Border** : ![border](https://www.w3schools.com/css/box-model.gif)
+    - border-width : can be *thin* or *medium* or *thick* or any value like *2px*
+        - border-top-width
+        - border-right-width
+        - border-bottom-width
+        - border-left-width
+        - border-width: 2px 1px 1px 2px;
+    - border-style : can be *solid* or *dotted* or *dashed* or *double* or *groove* or *ridge* or *inset* or *outset* or *hidden / none*
+        - border-top-style
+        - border-left-style
+        - border-right-style
+        - border-bottom-style
+    - border-color : 
+        - border-top-color
+        - border-right-color
+        - border-bottom-color
+        - border-left-color
+    - shorthand border : p {border : 1px ridge yellow;}
+- **Padding** ![Padding](pics/box-model.gif)
