@@ -57,7 +57,7 @@
  Arial : value
  
 **Using External CSS by <link> tag**
-> best practise : < link href="css/styles.css" type="text/css" rel="stylesheet"/>
+> best practise : <link href="css/styles.css" type="text/css" rel="stylesheet"/>
 
 **Using Internal CSS by <style> tag**
 > best practise put it inside head tag
