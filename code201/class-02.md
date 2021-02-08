@@ -62,18 +62,6 @@
 **Using Internal CSS by <style> tag**
 > best practise put it inside head tag
 
-**Selectors**
-
-**SELECTOR** | **EXAMPLe**
------------- | -------------
-Universal Selector | * {} Targets all elements on the page
-Type Selector | h1, h2, h3 {} Targets the <h1>, <h2> and <h3> elements
-Class Selector | .note {} Targets any element whose class attribute has a value of note p.note {} Targets only <p> elements whose class attribute has a value of note  
-ID Selector | #introduction {} Targets the element whose id attribute has a value of introduction Child Selector | li>a {} Targets any <a> elements that are children of an <li> element (but not other <a> elements in the page)
-Descendant Selector | p a {} Targets any <a> elements that sit inside a <p> element, even if there are other elements nested between them
-Adjacent Sibling Selector | h1+p {} Targets the first <p> element after any <h1> element (but not other <p> elements)
-General Sibling Selector | h1~p {} If you had two <p> elements that are siblings of an <h1> element,this rule would apply to both
-
 # Chapter 2 : Basic JavaScript Instruction 
 
 **Declare Variables** : var userName;
