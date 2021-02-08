@@ -42,9 +42,9 @@
 > <address> to contain contact details for the author of the page.
 
 ### Changes to Content
-> <ins> used to show content that has been inserted into a document
-  <del> can show text that has been deleted from it.
-  <s> indicate something that is no longer accurate or relevant (but that should not be deleted)
+> < ins> used to show content that has been inserted into a document
+  < del> can show text that has been deleted from it.
+  < s> indicate something that is no longer accurate or relevant (but that should not be deleted)
 
 # Chapter 10 : Introducing CSS
  **CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.**
@@ -57,7 +57,7 @@
  Arial : value
  
 **Using External CSS by <link> tag**
-> best practise : <link href="css/styles.css" type="text/css" rel="stylesheet"/>
+> best practise : < link href="css/styles.css" type="text/css" rel="stylesheet"/>
 
 **Using Internal CSS by <style> tag**
 > best practise put it inside head tag
