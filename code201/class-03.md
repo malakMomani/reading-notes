@@ -59,3 +59,38 @@
 - **box-shadow**
 - **Rounded Corners**
 - **Elliptical Shapes**
+
+------------------------------------------------------------------------------------------------
+
+#### Arrays 
+    > Array is a special type of variable. It doesn't just store one value; it stores a list of values.
+
+    var colors;
+    colors ['white', 'black', ' custom'];
+
+**INDEX** | **VALUE**
+------------ | -------------
+0 | white
+1 | black
+2 | custom
+
+let userColor = colors[0] //white
+
+#### Switch Statement // decition make structure 
+Example :
+```
+switch (level) {
+    case 'One':
+        title= 'Level 1 ' ;
+        break;
+    case 'Two':
+        title = ' Level 2 ' ;
+        break;
+    case 'Three' :
+        title = 'Level 3' ;
+        break ;
+    default :
+        title= 'Test';
+        break;
+}
+```
