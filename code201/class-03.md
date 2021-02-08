@@ -21,7 +21,7 @@
                     overflow: hidden;}
                   p.two {
                     overflow: scroll;}
-- **Border** : ![border](https://www.w3schools.com/css/box-model.gif)
+- **Border** : 
     - border-width : can be *thin* or *medium* or *thick* or any value like *2px*
         - border-top-width
         - border-right-width
@@ -39,4 +39,23 @@
         - border-bottom-color
         - border-left-color
     - shorthand border : p {border : 1px ridge yellow;}
-- **Padding** ![Padding](pics\boxmodel.gif)
+    ![border](https://www.w3schools.com/css/box-model.gif)
+
+- **Padding** : padding : 10px 3px 4px 3px;
+    - padding-top
+    - padding-right
+    - padding-bottom
+    - padding-left
+
+- **Margin** : margin: 1px 2px 3px 4px;
+    - margin-top
+    - margin-right
+    - margin-bottom
+    - margin-left
+
+- **display attribute** : switch between inline and block elements . *display : inline;* or *display : block;* or *display : inline-block* or *display : none*
+
+- **Border Images**
+- **box-shadow**
+- **Rounded Corners**
+- **Elliptical Shapes**
