@@ -97,3 +97,15 @@ General Sibling Selector | h1~p {}
 If you had two <p> elements that
 are siblings of an <h1> element,
 this rule would apply to both
+
+# Chapter 2 : Basic JavaScript Instruction 
+
+**Declare Variables** : var userName;
+**Assign Variables** : userName = "malak";
+
+**ARRAYS** : An array is a special type of variable. It doesn't just store one value; it stores a list of values.
+**CREATING AN ARRAY** : var colors = new Array('white ' , 'black', 'custom');
+
+# Chapter 4: Decisions and Loops
+
+**Decision MAking**
