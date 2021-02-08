@@ -39,4 +39,4 @@
         - border-bottom-color
         - border-left-color
     - shorthand border : p {border : 1px ridge yellow;}
-- **Padding** ![Padding](pics/box-model.gif)
+- **Padding** ![Padding](pics\boxmodel.gif)
