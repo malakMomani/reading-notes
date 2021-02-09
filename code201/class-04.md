@@ -65,3 +65,11 @@
 - @import url =("table.css");
 
 --------------------------------------------------------------------- JAVASCRIPT
+# Chapter 3 : Function , Methods And Objects
+
+**Functions** : group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function
+
+> function declaration : `function` functionName(parameters list) {
+    series of statements;
+}
+> function calling : functionName(arguments list);
