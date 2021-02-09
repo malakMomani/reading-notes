@@ -16,14 +16,14 @@
   - #top
   - #bottom
 ```
-<h1 id ="top"> Welcome </h1>
+< h1 id ="top"> Welcome </ h1>
 ....
 ....
 ...
 ...
 ...
-<p>Anything</p>
-<a href="#top">TOP</a>
+< p>Anything</ p>
+< a href="#top">TOP</ a>
 ```
 - Link to a specific part of the another page , using id of the element
 > `<a href="http:/www.sth.com/#bottom">` 
