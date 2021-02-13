@@ -70,3 +70,4 @@
 **ARRAYS** : An array is a special type of variable. It doesn't just store one value; it stores a list of values.
 **CREATING AN ARRAY** : var colors = new Array('white ' , 'black', 'custom');
 
+# [CODE201](https://malakmomani.github.io/reading-notes/code201/home)

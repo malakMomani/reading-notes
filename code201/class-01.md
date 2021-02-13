@@ -96,4 +96,4 @@ retrieve or update the values of an object's properties.
 **The HTML < script > element is used in HTML pages to tell the browser to load the JavaScript file (rather like the < link > element can be used to load a CSS file**
 
 
-# [Home](https://malakmomani.github.io/reading-notes/code201/home)
+# [CODE201](https://malakmomani.github.io/reading-notes/code201/home)
