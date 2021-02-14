@@ -125,6 +125,7 @@ EpicFailVideo.prototype.weeklyLikes = function() {
 ```
 **Spanning Columns**
 - `colspan` attribute :  can be used on a <th> or <td> element and indicates how many columns that cell should run across. 
+
 ```
 <table>
     < tr>
@@ -149,6 +150,7 @@ EpicFailVideo.prototype.weeklyLikes = function() {
 ```
 **Spanning Rows**
 - `rowspan` attribute :  can be used on a <th> or <td> element and indicates how many rows a cell should span down the table
+
 ```
 < table>
     < tr>
@@ -174,3 +176,4 @@ EpicFailVideo.prototype.weeklyLikes = function() {
 - < thead> : The headings of the table should sit inside the < thead> element.
 - < tbody> : The body should sit inside the < tbody> element.
 - < tfoot> : The footer belongs inside the < tfoot> element.
+------------------------------------------------------------------------------------------
