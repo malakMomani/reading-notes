@@ -90,3 +90,35 @@ EpicFailVideo.prototype.weeklyLikes = function() {
 
  **Domain modeling is the process of creating a conceptual model for a specific problem. And a domain model that's articulated well can verify and validate your understanding of that problem.**
 
+
+ -----------------------------------------------------------------------------------------
+
+ # Chapter 6 : Tables
+
+**What's A Table ?**
+> A table represents information in a grid format.
+
+- <table> : is used to create a table.
+- <tr> : indicate the start of each row (stands for table row).
+- <td> : stands for table data
+- <th> : is used like <td> but its purpose is to represent the heading for either a column or a row (stands for table heading)
+- Example :
+```
+<table>
+    <tr>
+        <th></th>
+        <th scope="col">Saturday</th>
+        <th scope="col">Sunday</th>
+    </tr>
+    <tr>
+        <th scope="row">Tickets sold:</th>
+        <td>120</td>
+        <td>135</td>
+    </tr>
+    <tr>
+        <th scope="row">Total sales:</th>
+        <td>$600</td>
+        <td>$675</td>
+    </tr>
+</table>
+```
