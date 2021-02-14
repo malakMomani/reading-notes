@@ -123,3 +123,54 @@ EpicFailVideo.prototype.weeklyLikes = function() {
     </ tr>
 </ table>
 ```
+**Spanning Columns**
+- `colspan` attribute :  can be used on a <th> or <td> element and indicates how many columns that cell should run across. 
+```
+<table>
+    < tr>
+        < th></ th>
+        < th>9am</ th>
+        < th>10am</ th>
+        < th>11am</ th>
+        < th>12am</ th>
+    </ tr>
+    < tr>
+        < th>Monday</ th>
+        < td colspan="2">Geography</ td>
+        < td>Math</ td>
+        < td>Art</ td>
+    </ tr>
+    < tr>
+        < th>Tuesday</ th>
+        < td colspan="3">Gym</ td>
+        < td>Home Ec</ td>
+    </ tr>
+</ table
+```
+**Spanning Rows**
+- `rowspan` attribute :  can be used on a <th> or <td> element and indicates how many rows a cell should span down the table
+```
+< table>
+    < tr>
+        < th></ th>
+        < th>ABC</ th>
+        < th>BBC</ th>
+        < th>CNN</ th>
+     </ tr>
+     < tr>
+        < th>6pm - 7pm</ th>
+        < td rowspan="2">Movie</ td>
+        < td>Comedy</ td>
+        < td>News</ td>
+    </ tr>
+    < tr>
+        < th>7pm - 8pm</ th>
+        < td>Sport</ td>
+        < td>Current Affairs</ td>
+    </ tr>
+</ table>
+```
+**Long Tables**
+- < thead> : The headings of the table should sit inside the < thead> element.
+- < tbody> : The body should sit inside the < tbody> element.
+- < tfoot> : The footer belongs inside the < tfoot> element.
