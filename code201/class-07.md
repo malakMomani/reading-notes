@@ -176,4 +176,22 @@ EpicFailVideo.prototype.weeklyLikes = function() {
 - < thead> : The headings of the table should sit inside the < thead> element.
 - < tbody> : The body should sit inside the < tbody> element.
 - < tfoot> : The footer belongs inside the < tfoot> element.
+
 ------------------------------------------------------------------------------------------
+## Creating an object : Constructor Notation 
+> The `new` keyword and the object constructor create a blank object
+
+```
+var hotel = new Object();
+hotel.name = 'Quay';
+hotel.rooms = 40;
+hotel.booked = 25;
+
+hotel.checkAvailability = function() {
+    return this.rooms - this.booked;
+}
+```
+
+**This** Keyword : The keyword `this` is commonly used inside functions and objects. Where the function is declared alters what `this` means. It always refers to one object, usually the object in which the function operate
+
+**JavaScript also has several built-in objects such as String, Number, Math, and Date. Their properties and methods offer functionality that help you write scripts**
