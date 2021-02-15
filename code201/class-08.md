@@ -3,7 +3,7 @@
 **CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.**
 
 - Block-Level Elements : <h1>,<p>,<ul>,<li>
-- inline Elements : <img> <b> <i>
+- inline Elements : < img>,< b>, < i>
 
 **If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element.**
 
