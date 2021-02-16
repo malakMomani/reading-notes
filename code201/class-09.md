@@ -67,6 +67,16 @@ using `< input>` tag
 - `value` : the value radio button
 - `checked` : can use to indicate which value should be checked by default.
 inside `form` tag :
+
+```
+< p>Enter your gender
+ < input type="radio" name="gender" value="male"
+ checked="checked" /> Male
+ < input type="radio" name="gender" value="female" />
+ Female
+</ p>
+```
+
 ```
 <p>Enter your gender
  <input type="radio" name="gender" value="male"
