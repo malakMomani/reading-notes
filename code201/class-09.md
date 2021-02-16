@@ -40,15 +40,6 @@ inside `form` tag :
 </p>
 ```
 
-```
-<form action="http://www.example.com/subscribe.php"
-  method="get">
-  <p>Username:
-  <input type="text" name="username" maxlength="30" />
-</p>
-</form>
-```
-
 **password Input** : 
 using `< input>` tag
 - `type = "password"`.
@@ -61,19 +52,9 @@ inside `form` tag :
   <input type="password" name="password" maxlength="30" />
 </p>
 ```
-
-```
-<form action="http://www.example.com/subscribe.php"
-  method="get">
-  <p>Password:
-  <input type="password" name="password" maxlength="30" />
-</p>
-</form>
-```
  
 **Text Area** : element by itself
 inside `form` tag
-
 ```
 <textarea name="comments" cols="20" rows="4">Enter
  your comments...</textarea>
@@ -86,7 +67,6 @@ using `< input>` tag
 - `value` : the value radio button
 - `checked` : can use to indicate which value should be checked by default.
 inside `form` tag :
-
 ```
 <p>Enter your gender
  <input type="radio" name="gender" value="male"
@@ -103,6 +83,15 @@ using `< input>` tag
 - `value` : the value checkbox
 - `checked` : can use to indicate which value should be checked by default.
 inside `form` tag :
+
+```
+< p>Enter your hobbies
+ < input type="checkbox" name="hobby" value="swimming"
+ checked="checked" /> Swimming
+ < input type="checkbox" name="hobby" value="reading" /> Reading
+</ p>
+```
+
 ```
 <p>Enter your hobbies
  <input type="checkbox" name="hobby" value="swimming"
