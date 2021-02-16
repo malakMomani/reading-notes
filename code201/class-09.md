@@ -125,3 +125,11 @@ using `< input>` tag
 
 -----------------------------------------------------
 # Chapter 14 
+
+lists has ***list-style-type*** property which stule the bullet point.
+
+- for unorderd list : `none` , `disc` , `circle ` or `square`.
+- for orderd list : `decimal` , `decimal-leading-zero` ,`lower-alpha` , `upper-alpha` , `lower-roman` or `upper-roman`
+
+or it has ***list-style-image***
+
