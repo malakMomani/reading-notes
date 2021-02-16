@@ -77,15 +77,6 @@ inside `form` tag :
 </ p>
 ```
 
-```
-<p>Enter your gender
- <input type="radio" name="gender" value="male"
- checked="checked" /> Male
- <input type="radio" name="gender" value="female" />
- Female
-</p>
-```
-
 **CheckBox** :
 using `< input>` tag
 - `type = "checkbox"`.
@@ -102,13 +93,6 @@ inside `form` tag :
 </ p>
 ```
 
-```
-<p>Enter your hobbies
- <input type="checkbox" name="hobby" value="swimming"
- checked="checked" /> Swimming
- <input type="checkbox" name="hobby" value="reading" /> Reading
-</p>
-```
 
 **Drop Down List Box**:
 using `< select>` and `option` tag.
@@ -127,6 +111,7 @@ inside `< form>` tag:
  <option value="android">Android</option>
  </select>
 ```
+
 **File Input Box**
 using `< input>` tag
 - `type="file"`
