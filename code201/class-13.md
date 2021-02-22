@@ -44,4 +44,4 @@ var foo = localStorage["bar"];
 localStorage["bar"] = foo;
 ```
 
-![Object](pics/read.jpg);
+![Object](pics/read.jpg)
