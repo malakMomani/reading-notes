@@ -46,7 +46,6 @@ Illustration by James Graham
 
 - Has 2d settings or 3d settings.
 
-- 
 ```
 div {
   -webkit-transform: scale(1.5);
@@ -54,7 +53,6 @@ div {
        -o-transform: scale(1.5);
           transform: scale(1.5);
 }
-
 ```
 
 - **2D Transforms**:
