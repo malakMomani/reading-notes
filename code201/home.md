@@ -19,7 +19,7 @@ Class-11 | [class-11](https://malakmomani.github.io/reading-notes/code201/class-
 Class-12 | [class-12](https://malakmomani.github.io/reading-notes/code201/class-12)
 Class-13 | [class-13](https://malakmomani.github.io/reading-notes/code201/class-13)
 Class-14a | [class-14a](https://malakmomani.github.io/reading-notes/code201/class-14a)
-... | ...
+Class-14b | [class-14b](https://malakmomani.github.io/reading-notes/code201/class-14b)
 ... | ...
 
 # [Home](https://malakmomani.github.io/reading-notes/)
