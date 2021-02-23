@@ -36,3 +36,86 @@ Illustration by James Graham
 `We had lots of data, but there was nothing showing that a mix of specific personality types or skills or backgrounds made any difference. The ‘‘who’’ part of the equation didn’t seem to matter`
 
 `As long as everyone got a chance to talk, the team did well. But if only one person or a small group spoke all the time, the collective intelligence declined.`
+
+
+-----------------------------------------------------
+
+# CSS & HTML
+
+### `transform ` property 
+
+- Has 2d settings or 3d settings.
+
+- 
+```
+div {
+  -webkit-transform: scale(1.5);
+     -moz-transform: scale(1.5);
+       -o-transform: scale(1.5);
+          transform: scale(1.5);
+}
+
+```
+
+- **2D Transforms**:
+  - `x` and `y` axes
+  - 2D Rotate:
+    - `transform: rotate(10deg)`
+  - 2D Scale :
+    - `transform: scale(.75);`
+  - 2D Translate:
+    - `transform: translate(-10px, 25%);`
+  - 2D Skew:
+    - `transform: skew(5deg, -20deg);`
+  - Transform Origin:
+    - ` transform: skewX(20deg);`
+      ` transform-origin: top left;`
+  - Perspective:
+    - `transform: perspective(200px) rotateX(45deg);`
+  - Perspective Origin: 
+    - `perspective-origin: 75% 75%;`
+
+- **3D Transforms**:
+  - `x` , `y` and `z` axes
+  - 3D Rotate:
+    - `transform: perspective(200px) rotateZ(45deg);`
+  - 3D Scale: 
+    - `transform: perspective(200px) scaleZ(.25) rotateX(45deg);`
+  - 3D Translate:
+    - `transform: perspective(200px) translateZ(50px);`
+  - *Skew* can't be transformed on a three-dimensional scale.
+  - Backface Visibility:
+    - `backface-visibility: hidden;`
+       `transform: rotateY(180deg);`
+
+
+### Transition & Animation :
+
+- **Transition** :
+
+```
+.box {
+  background: #2db34a;
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+}
+.box:hover {
+  background: #ff7b29;
+}
+
+```
+
+  - Transitional Property: `transition-property: background, border-radius;`
+  - Transition Duration : `transition-duration: .2s, 1s;`
+  - Transition Timing: `transition-timing-function: linear, ease-in;`
+  - Transition Delay : `transition-delay: 0s, 1s;`
+
+
+- **Animation**:
+  *The @keyframes rule must be vendor prefixed, just like all of the other transition and animation properties.*
+
+  *@-moz-keyframes@-o-keyframes@-webkit-keyframes*
+
+
+    
