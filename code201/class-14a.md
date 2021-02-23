@@ -17,7 +17,7 @@
 
 - The bulk of modern work is more and more team-based.
 
-- Groups 
+- **Groups** 
   - tend to innovate faster.
   - see mistakes more quickly.
   - find better solution to problems.
@@ -26,3 +26,13 @@
   - *Google* became focused on building the perfect team.
 
 ![Illustration by James Graham](https://static01.nyt.com/images/2016/02/28/magazine/28mag-teams2/28mag-teams2-superJumbo.jpg?quality=90&auto=webp)
+Illustration by James Graham
+
+- Understanding and influencing group norms were the keys to improving Google’s teams.
+
+- **Good Teams**
+  - had high average social sensitivity
+
+`We had lots of data, but there was nothing showing that a mix of specific personality types or skills or backgrounds made any difference. The ‘‘who’’ part of the equation didn’t seem to matter`
+
+`As long as everyone got a chance to talk, the team did well. But if only one person or a small group spoke all the time, the collective intelligence declined.`
