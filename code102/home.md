@@ -1,7 +1,7 @@
-# Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 ![LTUC](https://img.alwakeelnews.com/Content/Upload/small/8202013104316907594295.jpg)
 
-## TABLE OF CONTENT 
+### TABLE OF CONTENT 
 
 **Subject** | **Link**
 ------------ | -------------

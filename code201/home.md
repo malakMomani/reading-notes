@@ -1,7 +1,7 @@
-# Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 ![LTUC](https://img.alwakeelnews.com/Content/Upload/small/8202013104316907594295.jpg)
 
-## TABLE OF CONTENT 
+### TABLE OF CONTENT 
 
 **Subject** | **link**
 ------------ | -------------
@@ -20,7 +20,6 @@ Class-12 | [class-12](https://malakmomani.github.io/reading-notes/code201/class-
 Class-13 | [class-13](https://malakmomani.github.io/reading-notes/code201/class-13)
 Class-14a | [class-14a](https://malakmomani.github.io/reading-notes/code201/class-14a)
 Class-14b | [class-14b](https://malakmomani.github.io/reading-notes/code201/class-14b)
-... | ...
 
 # [Home](https://malakmomani.github.io/reading-notes/)
 
