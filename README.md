@@ -9,7 +9,7 @@ Code102 Reading notes | [Code102 Reading notes](https://malakmomani.github.io/re
 
 Code201 Reading notes | [Code201 Reading notes](https://malakmomani.github.io/reading-notes/code201/home)
 
-Code301 Reading notes | [Code102 Reading notes](https://malakmomani.github.io/reading-notes/code301/home)
+Code301 Reading notes | [Code301 Reading notes](https://malakmomani.github.io/reading-notes/code301/home)
 
 ### ABDUL AZIZ AL GHURAIR SCHOOL OF ADVANCED COMPUTING
 
