@@ -5,7 +5,8 @@
 #### What is JQuery ?
 
 ```
-it is JS file , it let you find element using CSS style selectors , and it provides some methods
+it is JS file , it let you find element using CSS style selectors , 
+and it provides some methods
 ```
 
 **Syntax**
