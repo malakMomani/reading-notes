@@ -11,7 +11,8 @@ Class-03 | [class-03](https://malakmomani.github.io/reading-notes/code301/class-
 Class-04 | [class-04](https://malakmomani.github.io/reading-notes/code301/class-04)
 Class-05 | [class-05](https://malakmomani.github.io/reading-notes/code301/class-05)
 Class-06 | [class-06](https://malakmomani.github.io/reading-notes/code301/class-06)
-Class-07 | [class-07](https://malakmomani.github.io/reading-notes/code301/class-07)
+Class-07 | [class-07](https://malakmomani.github.io/reading-notes/code301/class-07
+Class-08 | [class-08](https://malakmomani.github.io/reading-notes/code301/class-08))
 ... | ...
 
 
