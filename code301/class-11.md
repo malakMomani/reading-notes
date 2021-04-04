@@ -43,9 +43,9 @@ res.render('home', {name:'Malak'});
 <body>
     Hobbies of <%=data.name%> are:<br/>
     <ul>
-        <% data.hobbies.forEach((item)=>{%>
-        <li><%=item%></li> 
-        <%});%>
+        < %  data.hobbies.forEach((item)=>{ % >
+        <li>< % =item %></li> 
+        <% }); %>
     </ul>
 </body>
 ```
