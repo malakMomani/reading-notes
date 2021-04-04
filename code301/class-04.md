@@ -1,6 +1,6 @@
 ## Regular Expression
 
-**is a sequence of characters that specifies a search pattern. Usually such patterns are used by string-searching algorithms**
+**is a sequence of characters that specifies a search pattern. Usually such patterns3 are used by string-searching algorithms**
 
 - RegEx is shorthand
 - ^word -> matches any string that starts with `word`.
