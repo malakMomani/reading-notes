@@ -12,4 +12,11 @@ So , **What happened?** : There is no clear answer , but we can say that the soc
 ## Diversity in Tech 
 [Go to Site](https://informationisbeautiful.net/visualizations/diversity-in-tech/)
 
-- At all the males is in social and websites much more than females
+- At all the males is in tech companies much more than females.
+- in NVIDIA : the females are only 17% of the company
+- in INDIAGOGO : the females are 50% of the company which the highest percentage 
+
+**Why Diversity is important ?**
+- Diverse teams are smarter and more creative 
+- Diverse companies perform better
+- Diverse companies can better serve a diverse user base 
