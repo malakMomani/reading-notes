@@ -26,8 +26,9 @@ $(document).ready(function() {
 ```
 
 **Examples of jQuery methods**
+
 - getting  and setting element content :
-  - `html();` : with markups; 
+  - `html();` : with markups;
   - `text();` : without markups;
 - inserting element :
   - `before();` : before element you selected;
@@ -46,7 +47,6 @@ $(document).ready(function() {
   - `hide();`
 - animatios CSS properties:
   - `animate();`
-
 
 **How to add jQuery library to my JS file**
 

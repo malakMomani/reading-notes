@@ -123,4 +123,4 @@ to defines a flex container; inline or block depending on the given value using 
 
 
 #### Froggy Game :
-![froggy](code301/froggy.png)
+![froggy](/code301/froggy.png)
