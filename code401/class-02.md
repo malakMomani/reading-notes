@@ -7,7 +7,6 @@
 
 2. Insomnia, Postman, Stoplight.
 
-3.
 | **   |      Swagger      |  APIDocs.js |
 |----------|:-------------:|------:|
 | OK |  200 | 200 |
@@ -18,10 +17,13 @@
 | forbidden |   -   |  403 |
 | server error |   -   |  500 |
 
-4. The difference between REST & SOAP
-   - REST : refer to Representational State Transfer , it's an architectural style that defines aset of recommendations for designing loosely coupled applications that use the HTTP protocol for data transmission.
-   - SOAP : refer to Simple Object Access Protocol , it's a standardlized protocol that sends messages using other protocols such as HTTP. It returns data to the receiver in XML format
-   - REST was created to address the problems of SOAP.
+
+-> The difference between REST & SOAP
+
+- REST : refer to Representational State Transfer , it's an architectural style that defines aset of recommendations for designing loosely coupled applications that use the HTTP protocol for data transmission.
+- SOAP : refer to Simple Object Access Protocol , it's a standardlized protocol that sends messages using other protocols such as HTTP. It returns data to the receiver in XML format
+- REST was created to address the problems of SOAP.
+
    | ** |      Swagger      |  APIDocs.js |
    |----------|:-------------:|------:|
    | Meaning |  Simple Object Access Protocol | Representational State Transfer |
