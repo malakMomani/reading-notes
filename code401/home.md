@@ -1,15 +1,16 @@
-## Code 401 - Advanced Software Development
+# Code 401 - Advanced Software Development
+
 ![LTUC](https://img.alwakeelnews.com/Content/Upload/small/8202013104316907594295.jpg)
 
-### TABLE OF CONTENT 
+## TABLE OF CONTENT
 
 **Subject** | **link**
 ------------ | -------------
 Pre-reading | [How to Solve Programming Problems](https://malakmomani.github.io/reading-notes/code401/pre-read)
+class-01 | [Node Ecosystem, TDD, CI/CD](https://malakmomani.github.io/reading-notes/code401/class-01)
 ... | ...
 ... | ...
 ... | ...
 ... | ...
 
-
-# [Home](https://malakmomani.github.io/reading-notes/)
+### [Home](https://malakmomani.github.io/reading-notes/)
