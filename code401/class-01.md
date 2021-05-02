@@ -21,4 +21,4 @@ async fetch(){
 
 4. promise said to the function do somthing and I will waiting the result then I'll handle it.
 
-5. yes , because it not wait
+5. No , it can be synchoronus or Asynchoronus based on where you invoke it.
