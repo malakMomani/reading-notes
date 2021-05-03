@@ -14,12 +14,18 @@
    - when handle the same route with the same method.
 
 -----------------------------------------------------------
-**Middleware** : function comes in the middle of req and res that prepare the handler of the routes take req and res objects with the next function as parameters
+**Middleware** : function comes in the middle of req and res that prepare the handler of the routes take req and res objects with the next function as parameters.
+
 **Request Object** : represents the HTTP request and has properties for the request query string, parameters, body, HTTP headers, and so on.
+
 **Response Object** : represents the HTTP response that an Express app sends when it gets an HTTP request.
+
 **Application Middleware** : software that have common middlewares serviced which used in the applications
+
 **Routing Middleware** : the way to define the routes of middlewares and which routes should be handling by that middleware
+
 **Test Driven Development** : (TDD) : is software development that based on test unites of the parts of code to validate what the code will do
+
 **Behavioral Testing** :  (BDD) is a branch of Test Driven Development (TDD). BDD uses human-readable descriptions of software user requirements as the basis for software tests.
 
 -----------------------------------------------------------
