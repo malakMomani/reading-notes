@@ -11,6 +11,7 @@ class-01 | [Node Ecosystem, TDD, CI/CD](https://malakmomani.github.io/reading-no
 class-02 | [Express](https://malakmomani.github.io/reading-notes/code401/class-02)
 class-03 | [Express Routing](https://malakmomani.github.io/reading-notes/code401/class-03)
 class-04 | [Data Modeling](https://malakmomani.github.io/reading-notes/code401/class-04)
+class-05 | [Linked List](https://malakmomani.github.io/reading-notes/code401/class-05)
 ... | ...
 ... | ...
 
