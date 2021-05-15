@@ -21,12 +21,13 @@ import('./modules/myModule.js')
 
 **Singleton Pattern**: is a class that allows to instantiate only one object of itself and give access to that instance
 **CRUD -> REST Method Matches**:
-|  CRUD  |  REST  |
-|--- |:-: |
-|  CREATE  |  POST  |
-|  READ  |  GET  |
-|  UPDATE  |  PUT  |
-|  DELETE  |  DELETE  |
+
+| CRUD      | REST |
+| ----------- | ----------- |
+| CREATE      | POST       |
+| READ   | GET        |
+| UPDATE   | PUT        |
+| DELETE   | DELETE        |
 
 **Mock Testing**: using jest dependency, mocks provide us with the capability to stub the functionality provided by a dependency and a means to observe how our code interacts with the dependency. Mocks are especially useful when it's expensive or impractical to include a dependency directly into our tests, for example, in cases where your code is making HTTP calls to an API or interacting with the database layer.
 
