@@ -47,7 +47,7 @@ import('./modules/myModule.js')
 
 ## Basic access authentication
 
-is a method for an HTTP user agent to provide a user name and password when making a request.
+is a method for an HTTP user agent to provide a user name and password when making a `request.
 
 - **Authentication** : is the process of verifying that an individual, entity or website is whom it claims to be,by submitting a username or ID and one or more items of private information that only a given user should know.
 - **Session Management** is a process by which a server maintains the state of an entity interacting with it. This is required for a server to remember how to react to subsequent requests throughout a transaction
