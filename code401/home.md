@@ -16,7 +16,7 @@ class-06 | [Authentication](https://malakmomani.github.io/reading-notes/code401/
 class-07 | [JWT](https://malakmomani.github.io/reading-notes/code401/class-07)
 class-08 | [Access Control (ACL)](https://malakmomani.github.io/reading-notes/code401/class-08)
 class-09 | [OAuth](https://malakmomani.github.io/reading-notes/code401/class-09)
-... | ...
+class-10 | [Stack & Queue](https://malakmomani.github.io/reading-notes/code401/class-10)
 ... | ...
 
 ### [Home](https://malakmomani.github.io/reading-notes/)
