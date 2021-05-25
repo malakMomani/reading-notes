@@ -19,6 +19,7 @@ class-09 | [OAuth](https://malakmomani.github.io/reading-notes/code401/class-09)
 class-10 | [Stack & Queue](https://malakmomani.github.io/reading-notes/code401/class-10)
 class-11 | [Event Driven Applications](https://malakmomani.github.io/reading-notes/code401/class-11)
 class-12 | [Socket.io](https://malakmomani.github.io/reading-notes/code401/class-12)
+class-13 | [Chat with socket io](https://malakmomani.github.io/reading-notes/code401/class-13)
 ... | ...
 
 ### [Home](https://malakmomani.github.io/reading-notes/)
