@@ -134,4 +134,4 @@ const io = new Server();
 
 ```
 
-- client API : Exposed as the io namespace in the standalone build, or the result of calling `require("socket.io-client")` .
+- client API : Exposed as the io namespace in the standalone build, or the result of calling `require("socket.io-client")`.
