@@ -20,6 +20,8 @@ class-10 | [Stack & Queue](https://malakmomani.github.io/reading-notes/code401/c
 class-11 | [Event Driven Applications](https://malakmomani.github.io/reading-notes/code401/class-11)
 class-12 | [Socket.io](https://malakmomani.github.io/reading-notes/code401/class-12)
 class-13 | [Chat with socket io](https://malakmomani.github.io/reading-notes/code401/class-13)
+class-14 | [AWS SQS vs SNS](https://malakmomani.github.io/reading-notes/code401/class-14)
+class-15 | [Trees](https://malakmomani.github.io/reading-notes/code401/class-15)
 ... | ...
 
 ### [Home](https://malakmomani.github.io/reading-notes/)
