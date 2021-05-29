@@ -22,6 +22,7 @@ class-12 | [Socket.io](https://malakmomani.github.io/reading-notes/code401/class
 class-13 | [Chat with socket io](https://malakmomani.github.io/reading-notes/code401/class-13)
 class-14 | [AWS SQS vs SNS](https://malakmomani.github.io/reading-notes/code401/class-14)
 class-15 | [Trees](https://malakmomani.github.io/reading-notes/code401/class-15)
+class-16 | [AWS EC2](https://malakmomani.github.io/reading-notes/code401/class-16)
 ... | ...
 
 ### [Home](https://malakmomani.github.io/reading-notes/)

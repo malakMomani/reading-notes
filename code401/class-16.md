@@ -7,7 +7,7 @@
 2. **Explain what a “server” is, as it relates to the WRRC**
    it's a mediator between the client and the cloud services like api or database , and it controls the request from the client.
 
-3. **What does it mean to “deploy” an application?** 
+3. **What does it mean to “deploy” an application?**
    putting it on a Web server so that it can be used either through the Internet or an intranet. so the users can reach the website from the developer using an deployment link
 
 **TERMS:**
