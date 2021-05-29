@@ -1,7 +1,7 @@
 # AWS: Cloud Servers
 
 1. **Describe the Web-Request-Response-Cycle**
-   ![wrrc](pics/wrrc.jpg)
+   ![wrrc](../pics/wrrc.jpg)
    The client send a request with some data using the application that he use to the server , the server will recieve the request and handle it and do some operations either getting from API or getting from the database , then send the response with some data to the client side
 
 2. **Explain what a “server” is, as it relates to the WRRC**
