@@ -23,7 +23,8 @@ class-13 | [Chat with socket io](https://malakmomani.github.io/reading-notes/cod
 class-14 | [AWS SQS vs SNS](https://malakmomani.github.io/reading-notes/code401/class-14)
 class-15 | [Trees](https://malakmomani.github.io/reading-notes/code401/class-15)
 class-16 | [AWS EC2](https://malakmomani.github.io/reading-notes/code401/class-16)
-class-17 | [AWS: S3 and Lambd](https://malakmomani.github.io/reading-notes/code401/class-17)
+class-17 | [AWS: S3 and Lambda](https://malakmomani.github.io/reading-notes/code401/class-17)
+class-18 | [AWS: API Gateway and Dynamoose](https://malakmomani.github.io/reading-notes/code401/class-18)
 ... | ...
 
 ### [Home](https://malakmomani.github.io/reading-notes/)
