@@ -25,6 +25,7 @@ class-15 | [Trees](https://malakmomani.github.io/reading-notes/code401/class-15)
 class-16 | [AWS EC2](https://malakmomani.github.io/reading-notes/code401/class-16)
 class-17 | [AWS: S3 and Lambda](https://malakmomani.github.io/reading-notes/code401/class-17)
 class-18 | [AWS: API Gateway and Dynamoose](https://malakmomani.github.io/reading-notes/code401/class-18)
+class-19 | [AWS: SNS vs SQS](https://malakmomani.github.io/reading-notes/code401/class-19)
 ... | ...
 
 ### [Home](https://malakmomani.github.io/reading-notes/)
