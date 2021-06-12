@@ -26,6 +26,7 @@ class-16 | [AWS EC2](https://malakmomani.github.io/reading-notes/code401/class-1
 class-17 | [AWS: S3 and Lambda](https://malakmomani.github.io/reading-notes/code401/class-17)
 class-18 | [AWS: API Gateway and Dynamoose](https://malakmomani.github.io/reading-notes/code401/class-18)
 class-19 | [AWS: SNS vs SQS](https://malakmomani.github.io/reading-notes/code401/class-19)
+class-26 | [Component Based UI](https://malakmomani.github.io/reading-notes/code401/class-26)
 ... | ...
 
 ### [Home](https://malakmomani.github.io/reading-notes/)
