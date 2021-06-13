@@ -16,10 +16,12 @@
 
 - **build :** process of converting source code files into standalone software artifacts that can be run on a computer.
 
---------------------------------------------------------------
+--------------------------------------------------------------------
 
 ## setState()
 
 - `setState()`: is the only legitimate way to update state after the initial state setup
 
 ![setState](https://i1.wp.com/css-tricks.com/wp-content/uploads/2018/04/image_preview-1.jpeg?w=300&ssl=1)
+
+> Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. This page provides an introduction to the idea of components.
