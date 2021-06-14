@@ -28,6 +28,7 @@ class-18 | [AWS: API Gateway and Dynamoose](https://malakmomani.github.io/readin
 class-19 | [AWS: SNS vs SQS](https://malakmomani.github.io/reading-notes/code401/class-19)
 class-26 | [Component Based UI](https://malakmomani.github.io/reading-notes/code401/class-26)
 class-27 | [Props and State](https://malakmomani.github.io/reading-notes/code401/class-27)
+class-28 | [Component Composition](https://malakmomani.github.io/reading-notes/code401/class-28)
 ... | ...
 
 ### [Home](https://malakmomani.github.io/reading-notes/)
