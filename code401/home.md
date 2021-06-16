@@ -30,6 +30,7 @@ class-26 | [Component Based UI](https://malakmomani.github.io/reading-notes/code
 class-27 | [Props and State](https://malakmomani.github.io/reading-notes/code401/class-27)
 class-28 | [Component Composition](https://malakmomani.github.io/reading-notes/code401/class-28)
 class-29 | [Routing](https://malakmomani.github.io/reading-notes/code401/class-29)
+class-30 | [Hash Tables](https://malakmomani.github.io/reading-notes/code401/class-30)
 ... | ...
 
 ### [Home](https://malakmomani.github.io/reading-notes/)
