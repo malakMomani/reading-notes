@@ -31,6 +31,7 @@ class-27 | [Props and State](https://malakmomani.github.io/reading-notes/code401
 class-28 | [Component Composition](https://malakmomani.github.io/reading-notes/code401/class-28)
 class-29 | [Routing](https://malakmomani.github.io/reading-notes/code401/class-29)
 class-30 | [Hash Tables](https://malakmomani.github.io/reading-notes/code401/class-30)
+class-31 | [Hooks API](https://malakmomani.github.io/reading-notes/code401/class-31)
 ... | ...
 
 ### [Home](https://malakmomani.github.io/reading-notes/)
