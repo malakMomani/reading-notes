@@ -32,6 +32,7 @@ class-28 | [Component Composition](https://malakmomani.github.io/reading-notes/c
 class-29 | [Routing](https://malakmomani.github.io/reading-notes/code401/class-29)
 class-30 | [Hash Tables](https://malakmomani.github.io/reading-notes/code401/class-30)
 class-31 | [Hooks API](https://malakmomani.github.io/reading-notes/code401/class-31)
+class-32 | [Hooks API](https://malakmomani.github.io/reading-notes/code401/class-32)
 ... | ...
 
 ### [Home](https://malakmomani.github.io/reading-notes/)
