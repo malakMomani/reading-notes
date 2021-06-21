@@ -33,7 +33,7 @@ class-29 | [Routing](https://malakmomani.github.io/reading-notes/code401/class-2
 class-30 | [Hash Tables](https://malakmomani.github.io/reading-notes/code401/class-30)
 class-31 | [Hooks API](https://malakmomani.github.io/reading-notes/code401/class-31)
 class-32 | [Custom Hooks](https://malakmomani.github.io/reading-notes/code401/class-32)
-class-32 | [Context API](https://malakmomani.github.io/reading-notes/code401/class-32)
+class-33 | [Context API](https://malakmomani.github.io/reading-notes/code401/class-33)
 ... | ...
 
 ### [Home](https://malakmomani.github.io/reading-notes/)
