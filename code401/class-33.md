@@ -25,3 +25,5 @@
 - `const MyContext = React.createContext(defaultValue);`
 - Every Context object comes with a Provider React component that allows consuming components to subscribe to context changes.
 - `<MyContext.Provider value={/* some value */}>`
+
+-------------------------------------------------------------------------------------------
