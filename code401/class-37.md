@@ -16,6 +16,7 @@
 
 - If the new state is different, the reducer must create new object, and making a copy is a way to describe the unchanged part.
 
+------------------------------------------------------------
 **Terms :**
 
 **immutable state**: Immutable state is state that cannot be changed.
@@ -27,4 +28,3 @@
 **reducer** is a function that determines changes to an application's state.
 
 **dispatch** is a function of the Redux store. You call store. dispatch to dispatch an action. This is the only way to trigger a state change.
-

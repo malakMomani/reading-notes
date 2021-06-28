@@ -37,6 +37,7 @@ class-33 | [Context API](https://malakmomani.github.io/reading-notes/code401/cla
 class-34 | [`<Login />` and `<Auth />`](https://malakmomani.github.io/reading-notes/code401/class-34)
 class-35 | [Graphs](https://malakmomani.github.io/reading-notes/code401/class-35)
 class-36 | [Application State with Redux](https://malakmomani.github.io/reading-notes/code401/class-36)
+class-37 | [Redux - Combined Reducers](https://malakmomani.github.io/reading-notes/code401/class-37)
 ... | ...
 
 ### [Home](https://malakmomani.github.io/reading-notes/)
