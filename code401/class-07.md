@@ -10,13 +10,13 @@
 
 ---------------------------------------------
 
-- most common usage is in credit card issues, because it's sensitive data, if I want to know if the user has sufficient credit available to authorize the transaction. 
+- most common usage is in credit card issues, because it's sensitive data, if I want to know if the user has sufficient credit available to authorize the transaction.
 
 `Access tokens are the thing that applications use to make API requests on behalf of a user. The access token represents the authorization of a specific application to access specific parts of a user's data. Access tokens must be kept confidential in transit and in storage`
 
 - What’s a benefit of using OAuth instead of your own basic authentication? more strong and secure than the basic-auth
 
-**TERMS** 
+**TERMS :**
 
 *Client ID* : is a public and unique identifier for apps
 
@@ -32,7 +32,7 @@ API Endpoint
 
 ## JWT : JSON WEB TOKEN
 
-- is an open standard (RFC 7519) 
+- is an open standard (RFC 7519)
 - Why it used : securely transfer info. between any two bodies(users , server)
 - Digitally signed - info. is verified an trusted
 - Compact : can send via URL , POST request ,HTTP header , fast transmission
