@@ -39,6 +39,7 @@ class-35 | [Graphs](https://malakmomani.github.io/reading-notes/code401/class-35
 class-36 | [Application State with Redux](https://malakmomani.github.io/reading-notes/code401/class-36)
 class-37 | [Redux - Combined Reducers](https://malakmomani.github.io/reading-notes/code401/class-37)
 class-38 | [Redux - Asynchronous Actions](https://malakmomani.github.io/reading-notes/code401/class-38)
+class-39 | [Redux - Additional Topics](https://malakmomani.github.io/reading-notes/code401/class-39)
 ... | ...
 
 ### [Home](https://malakmomani.github.io/reading-notes/)
